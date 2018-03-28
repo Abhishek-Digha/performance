@@ -51,7 +51,8 @@
             <configuration>
                  <filesets>
                     <fileset>
-                        <directory>/var/lib/jenkins/workspace/ARCPerformance/performance/Report</directory>
+                        <directory>/var/lib/jenkins/workspace/ARCPerformance/Report</directory>
+                 
                         <includes>
                             <include>**/*</include>
                         </includes>
@@ -60,7 +61,7 @@
                     </fileset>
 					
 					 <fileset>
-                        <directory>/var/lib/jenkins/workspace/ARCPerformance/performance/jtl</directory>
+                        <directory>/var/lib/jenkins/workspace/ARCPerformance/jtl</directory>
                         <includes>
                             <include>**/*</include>
                         </includes>

@@ -2445,7 +2445,7 @@ Saurav K&#xd;
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\apache-jmeter-4.0\apache-jmeter-4.0\bin\examples\csv\Arc-performance-test-13-1march.csv</stringProp>
+          <stringProp name="filename">/var/lib/jenkins/workspace/ARCPerformance/csv/ArcPerformance.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <DurationAssertion guiclass="DurationAssertionGui" testclass="DurationAssertion" testname="Duration Assertion" enabled="true">
